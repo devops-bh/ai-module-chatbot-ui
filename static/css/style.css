@@ -1,5 +1,8 @@
 body {
   font-family: "Open Sans", sans-serif;
+  /*
+  remove these background properties if we don't want the Rasa UI website image 
+  */
   background: url("../img/body.png") no-repeat center center fixed;
   background-size: cover;
 }
